@@ -144,7 +144,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:0,Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass%20%20
+http://maiptv.com:8080/ricardo01/98563lop/56240?checkedby:iptvcat.com
 
 #EXTINF:0,Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
@@ -153,7 +153,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 
 #EXTINF:0,National Geographic
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+http://maiptv.com:8080/ricardo01/98563lop/56278?checkedby:iptvcat.com
 
 #EXTINF:0,Hore
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
