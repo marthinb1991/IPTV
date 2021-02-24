@@ -19,6 +19,10 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts?che
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 13 HD ENG
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Bein Sports",FOX Sports 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Bein Sports",ESPN 2
+https://gma2.blab.email/espn2.m3u8
 
 
 #EXTM3U
